@@ -1,8 +1,6 @@
 # ======
 # Author:       	Carlos Garcia
 # Description:  	Small program written as a requirement for the interview process.
-#                   note: Original script was written in Python 2.7; Updated on 7/16 
-#                   to 3.8 (thus the list intro to index)
 # Last Update:  	7/16/20
 # ======
 
