@@ -1,9 +1,3 @@
-# ======
-# Author:       	Carlos Garcia
-# Description:  	Small program written as a requirement for the interview process.
-# Last Update:  	7/16/20
-# ======
-
 import sys
 import collections
 import csv
